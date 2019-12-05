@@ -1,3 +1,4 @@
+### [Deployed app can be accessed from here](https://release-wm-app-design-patterns.dpwfbpxczhwpr.amplifyapp.com/learn/)
 # Welcome to WaveMaker Documentation
 
 To access the WaveMaker documentation, see [WaveMaker Docs](https://wavemaker.com/learn/).
